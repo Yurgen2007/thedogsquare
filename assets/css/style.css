@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    
 }
 body{
     background-color: black;
@@ -42,9 +43,11 @@ body{
 
 .title{
     color: aliceblue;
+    font-size: 50px;
 }
 .texto_descripcion{
     color: aliceblue;
+    margin-right: 20px;
 }
 
 .navegacion a {
@@ -59,3 +62,9 @@ body{
 .textoinferior{
     color: aliceblue;
 }
+
+section{
+    margin: 80px;
+    display: flex;
+    align-content: space-between;
+ }
