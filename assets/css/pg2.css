@@ -1,0 +1,20 @@
+.descarga{
+    color: aliceblue;
+}
+
+.video{
+    display: flex;
+    width: 2000px;
+    height: 600px;
+    align-items: center;
+    align-items: start;
+}
+
+.conter{
+    
+    margin-left: 300px;
+}
+
+.inferiorima{
+    align-items: end;
+}
