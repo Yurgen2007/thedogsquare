@@ -13,9 +13,8 @@ body{
     justify-content: space-between;
     height: 100px;
     background-color: rgb(65, 59, 59);
-    width: 100%;
-    z-index: 100;
-
+    
+    
 }
 
 .navegacion{
@@ -57,7 +56,8 @@ body{
 }
 
 .inferior{
-    background-color: #787272;
+    background-color: #312f2f;
+    padding: 60px;
 }
 .textoinferior{
     color: aliceblue;
@@ -67,4 +67,10 @@ section{
     margin: 80px;
     display: flex;
     align-content: space-between;
+    padding: 20px;
  }
+
+ .inferior{
+    text-align: center;
+ }
+
