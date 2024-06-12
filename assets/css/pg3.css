@@ -1,0 +1,33 @@
+
+.TITULO{
+    color: aliceblue;
+    margin: 80px;
+    margin-left: 450px;
+    font-size: 50px;
+}
+
+.TEXTO{
+    color: aliceblue;
+    margin: 0px 400px;
+    margin-left: 450px;
+    font-size: 30px;
+    
+}
+
+.imagenes{
+    margin-left: 450px;
+    align-items: center;
+}
+
+
+.texto2{
+    color: aliceblue;
+    margin: 0px 400px;
+    margin-left: 450px;
+    font-size: 30px;
+    
+    
+}
+.medio{
+    align-items: center;
+}
