@@ -20,10 +20,27 @@
 }
 .texto2{
     color: aliceblue;
-    margin: 0px 400px;
+    margin: 0px 40px;
     margin-left: 450px;
     font-size: 30px;
 }
+
+.texto3{
+    color: aliceblue;
+    margin: 0px 100px;
+    margin-left: 400px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.medios{
+    color: aliceblue;
+    font-size: 30px;
+    margin: 0px 500px;
+    margin-right: 0px;
+    margin-left: 450px;
+}
+
 
 
 
