@@ -1,0 +1,21 @@
+.tabla{
+    color: aliceblue;
+    background-color: #312f2f;
+    padding: 60px;
+    font-size: 20px;
+    width: 770px;
+}
+tabla th, td, th{
+    border: 1px solid wheat;
+
+}
+
+th,td {
+    text-align: center;
+    padding: 10px;
+}
+
+.tabla{
+    margin-left: 650px;
+    
+}
