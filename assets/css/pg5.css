@@ -1,0 +1,30 @@
+.titulo{
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+}
+
+.formulario{
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.nombre{
+    display: flex;
+    margin: 5px;
+
+}
+.apellidos{
+    display: flex;
+    margin: 5px;
+}
+
+.email{
+    display: flex;
+    margin: 5px;
+}
+
+.mensaje{
+    display: flex;
+    margin: 5px;
+}
