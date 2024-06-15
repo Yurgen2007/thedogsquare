@@ -5,14 +5,15 @@
 }
 
 .formulario{
+    
     color: aliceblue;
     font-size: 25px;
+    margin-left: 750px;
 }
 
 .nombre{
     display: flex;
     margin: 5px;
-
 }
 .apellidos{
     display: flex;
@@ -22,9 +23,22 @@
 .email{
     display: flex;
     margin: 5px;
+    width: 350px;
 }
 
 .mensaje{
     display: flex;
     margin: 5px;
+    width: 350px;
+    height: 100px;
+}
+
+.enviar{
+    width: 350px;
+    margin-left: 6px;
+
+}
+
+.dos{
+    display: flex;
 }
