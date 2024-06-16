@@ -8,22 +8,25 @@
     
     color: aliceblue;
     font-size: 25px;
-    margin-left: 750px;
+    margin-left: 835px;
 }
 
 .nombre{
     display: flex;
     margin: 5px;
+    height: 35px;
 }
 .apellidos{
     display: flex;
     margin: 5px;
+    height: 35px;
 }
 
 .email{
     display: flex;
     margin: 5px;
     width: 350px;
+    height: 35px;
 }
 
 .mensaje{
@@ -34,8 +37,11 @@
 }
 
 .enviar{
+    height: 40px;
     width: 350px;
     margin-left: 6px;
+    background-color: #312f2f;
+    color: aliceblue;
 
 }
 

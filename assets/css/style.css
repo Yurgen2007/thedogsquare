@@ -46,7 +46,10 @@ body{
 }
 .texto_descripcion{
     color: aliceblue;
-    margin-right: 20px;
+    font-size: 30px;
+}
+.texto_descripcion{
+    margin: 0px 0px;
 }
 
 .navegacion a {
@@ -74,4 +77,16 @@ section{
     text-align: center;
  }
 
+ 
+.todo{
+    margin: 0px 40px;
+}
 
+.imagen1{
+    width: 600px;
+    height: 600px;
+}
+
+.imagen1{
+    margin: 0px 200px;
+}

@@ -35,16 +35,25 @@
 
 .medios{
     color: aliceblue;
-    font-size: 30px;
+    font-size: 35px;
     margin: 0px 500px;
     margin-right: 0px;
     margin-left: 450px;
 }
 
 .img4-4 {
-    width: 350px;
+    width: 400px;
     height: 500px;
     align-items: center;
+    margin: 111px 0px;
+}
+
+.ultimo{
+    color: aliceblue;
+    margin: 0px 400px;
+    margin-left: 500px;
+    font-size: 30px;
+    text-align: center;
 }
 
 
