@@ -56,6 +56,15 @@
     text-align: center;
 }
 
+.video{
+    margin: 50px;
+    display: flex;
+    width: 2000px;
+    height: 600px;
+    align-items: center;
+    align-items: start;
+}
+
 
 
 

@@ -7,7 +7,6 @@
 }
 tabla th, td, th{
     border: 1px solid wheat;
-
 }
 
 th,td {
@@ -17,5 +16,5 @@ th,td {
 
 .tabla{
     margin-left: 650px;
-    
 }
+
