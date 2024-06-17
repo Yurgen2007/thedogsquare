@@ -5,9 +5,9 @@
     font-size: 20px;
     width: 770px;
 }
-tabla th, td, th{
-    border: 1px solid wheat;
-}
+   h tabla th, td, th{
+     hborder: 1px solid wheat;
+  }
 
 th,td {
     text-align: center;
@@ -18,3 +18,10 @@ th,td {
     margin-left: 650px;
 }
 
+.linea td {
+    text-decoration: overline;
+}
+
+.lin2 td{
+    text-decoration: overline;
+}
