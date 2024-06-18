@@ -4,6 +4,7 @@
     padding: 60px;
     font-size: 20px;
     width: 770px;
+    
 }
 
 
@@ -16,15 +17,14 @@ th,td {
     margin-left: 650px;
 }
 
-.linea   {
-    text-decoration: overline;
-   
-   
+
+
+
+table{
+    border-collapse: collapse;
 }
 
-.lin2  {
-    text-decoration: overline;
+table ,th ,td {
+    border: 1px solid #fff;
+
 }
-
-
-
